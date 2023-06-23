@@ -84,9 +84,6 @@ ul, ol{
 .link:focus{
   color:#404BBF;
 }
-.link-studio{
-
-}
 .link-web{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -103,10 +100,7 @@ ul, ol{
 .wite-link{
   color: var(--bg-team-text);
 }
-.list {}
-
 .sublist {
-
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -251,6 +245,7 @@ width: calc((100% - 3 * 24px) / 4);
   width: calc((100% - 3 * 24px) / 4);
   background: #FFFFFF;
   border-radius: 0px 0px 4px 4px;
+
 }
 .list-team {
   display: flex;
