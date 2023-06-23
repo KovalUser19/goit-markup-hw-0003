@@ -63,8 +63,7 @@ ul, ol{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-left: 156px;
-  margin-right: 156px;
+  margin: 0 auto;
 }
 .nav{
   display: flex;
@@ -76,7 +75,7 @@ ul, ol{
   align-items: center;
   gap: 40px;
 }
-.list-sublist{
+.link-sublist{
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -168,8 +167,8 @@ background-color: #404BBF;
 
 
 .feature {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .list-feature{
@@ -349,7 +348,7 @@ border-bottom: 1px solid var(--cornflower);
 
 
 .footer {
-  padding: 100px;
+  padding: 100px 0;
   background-color: var(--bg-color);
 }
 .footer .link-web{
