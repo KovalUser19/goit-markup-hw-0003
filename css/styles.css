@@ -81,8 +81,6 @@ ul, ol{
   gap: 40px;
 }
 .list-sublist{
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .link:hover,
 .link:focus{
@@ -110,6 +108,8 @@ ul, ol{
   line-height: 1.5;
   color: var(--title-color);
   letter-spacing: 0.02em;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .address{
 margin-left: auto;
